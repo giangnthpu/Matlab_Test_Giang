@@ -1,7 +1,7 @@
 function [Accuracy,Retrieval]=ECCV_LabelProp_Demo;
 %
 %
-WINDOWS=300;
+WINDOWS=300;ooooooooooooooooooooooooooooooooooooooooooooooooooooo
 load Label_propagation_Mpeg.mat;
 NumOfShapes=1400;% 
 Num_retrieval=40;
